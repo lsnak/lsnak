@@ -11,6 +11,6 @@
 
 ## 🔧 Github Status 🔧
  
-![](https://github-readme-stats.vercel.app/api?username=alpha77x&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=isnak&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isnak&layout=compact&theme=radical)
  </div>
